@@ -1,1 +1,1 @@
-This is Owen's first git project
+first git project
